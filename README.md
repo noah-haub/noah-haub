@@ -2,9 +2,7 @@
 
 **`Digital Alchemist`**
 
-I'm a full-stack developer building mostly B2B SaaS companies. I solve complex problems by delivering simple to use solutions.
-
-I'm on a mission to create an enterprise that buys, builds and scales B2B SaaS companies like no other. The day I am writing this marks the beginning of [Spades Ventures](https://www.spadesventures.com)
+I'm a full-stack developer building everything and anything.
 
 ---
 
