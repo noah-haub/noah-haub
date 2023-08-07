@@ -2,7 +2,7 @@
 
 **`Digital Alchemist`**
 
-I'm a full-stack developer building everything and anything.
+I'm a full-stack developer building anything and everything.
 
 ---
 
